@@ -11,3 +11,7 @@ Python Basics for 2nd years
   - Markdown Format Overview and sample example on each
   - Python Basics Like variable,assignment of variable,data types,operators and keywords
   - Type,typecasting,Input and Output Formatting with sample example on each
+
+## Day-03(22-09-2023):
+  - Conditional Statements with sample example on each
+  - Loops Overview,for and range with sample example on each
