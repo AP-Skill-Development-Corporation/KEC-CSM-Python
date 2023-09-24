@@ -15,3 +15,11 @@ Python Basics for 2nd years
 ## Day-03(22-09-2023):
   - Conditional Statements with sample example on each
   - Loops Overview,for and range with sample example on each
+
+## Day-04(23-09-2023):
+  - While overview and sample example on it
+  - Jumping Statements like break,pass,continue with sample example on each
+  - Inner Loop with sample example on it
+  - Function and its types
+  - User defined function types with sample example on each
+  - Function argument Overview (default argument with sample example on it)
