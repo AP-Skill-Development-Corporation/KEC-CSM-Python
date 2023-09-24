@@ -1,0 +1,62 @@
+Day-04[23-09-2023]:
+===================
+	Good Morning All...
+
+	While
+	Jumping Statements
+	Inner Loops
+	Functions and its types
+	User Defined Function Types
+	Function argument types [Default Argument]
+
+	Task:
+	=====
+
+		Concept:
+		========
+			All Data Structures Overview
+			Packages and Modules
+
+		Problem-1:
+		==========
+			Input-1:
+			========
+				8
+				12
+				3
+			Output-1:
+			=========
+				23F41A3308
+				24F41A3309
+				25F41A3310
+				26F41A3311
+
+		Problem-2:
+		==========
+			Input-1:
+			========
+				8
+				12
+				3
+			Output-1:
+			=========
+				23F41A3308  23F41A3311
+				24F41A3309	24F41A3310
+				25F41A3310  25F41A3309
+				26F41A3311  26F41A3308
+
+		Problem-3:[Dont use str data type]
+		==========
+			Input-1:
+			========
+				452983
+			Output-1:
+			=========
+				852943
+
+			Input-2:
+			========
+				15847
+			Output-2:
+			=========
+				41857
