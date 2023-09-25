@@ -23,3 +23,8 @@ Python Basics for 2nd years
   - Function and its types
   - User defined function types with sample example on each
   - Function argument Overview (default argument with sample example on it)
+
+## Day-05(25-09-2023):
+  - Function Argument(keyword,required and Variable Length) with sample example on each
+  - Data Structures Overview
+  - List,tuple and its methods with sample examples on each
