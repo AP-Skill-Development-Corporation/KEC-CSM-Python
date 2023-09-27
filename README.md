@@ -28,3 +28,7 @@ Python Basics for 2nd years
   - Function Argument(keyword,required and Variable Length) with sample example on each
   - Data Structures Overview
   - List,tuple and its methods with sample examples on each
+
+## Day-06(26-09-2023):
+  - Dictionary,set and string methods with sample example on each
+  - Packages and Modules with sample example on each
